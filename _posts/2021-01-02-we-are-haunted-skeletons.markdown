@@ -1,7 +1,6 @@
 ---
 layout: post
 title: We Are Haunted Skeletons
-date:   2021-01-02 16:52:00 -0500
 ---
 Throughout history, humans have made incredible progress towards understanding 'the self' -- both physical and spiritual. In the philosophies and sciences, we experience an unyielding drive to unravel the mysteries of the human brain. However, one such secret remains unearthed: why are we, in fact, haunted skeletons? Seen as an exceptionally controversial take in medical fields, let's break down the evidence that we are as such. The first roadblock on our journey is whether or not ghosts are real. I put forward, there are a lot of people that believe in ghosts, and the odds of that many people being wrong are astronomically low. Ergo, there is only a very miniscule chance ghosts are not real. Since this is just as convincing as actual proof of the supernatural, we reach our desired conclusion, and can continue.
 
