@@ -1,8 +1,9 @@
 ---
 layout: post
 title: We Are Haunted Skeletons
+date:   2021-01-02 16:52:00 -0500
+categories: nature-of-humanity
 ---
-
 Throughout history, humans have made incredible progress towards understanding 'the self' -- both physical and spiritual. In the philosophies and sciences, we experience an unyielding drive to unravel the mysteries of the human brain. However, one such secret remains unearthed: why are we, in fact, haunted skeletons? Seen as an exceptionally controversial take in medical fields, let's break down the evidence that we are as such. The first roadblock on our journey is whether or not ghosts are real. I put forward, there are a lot of people that believe in ghosts, and the odds of that many people being wrong are astronomically low. Ergo, there is only a very miniscule chance ghosts are not real. Since this is just as convincing as actual proof of the supernatural, we reach our desired conclusion, and can continue.
 
 The second point we need to touch on is the usefulness of skeletons to ghosts. One trope we see played to death in media is the possession-preference of useless things, such as furniture, houses, and little children. However, these lie purely in the realm of fantasy -- what benefit would a ghost have possessing anything OTHER than a skeleton? I'd go as far to say that any ghost not in a skeleton is a sub-optimal ghost, a veritable disgrace to spectral-kind. That being said, where do the skeletons come from? Well actually, the better question would be, where do skeletons grow? The answer, not too surprising, is at the bottom of the ocean. We can conclude this because we haven't discovered anywhere on Earth where skeletons naturally grow, and we haven't fully explored the ocean, therefore by the process of elimination, we know that there are giant skeleton reefs at the bottom of the sea. This is supported by the fact ghosts are immune to water pressure, and can pluck a desired skeleton from its housing, before letting it float up to the surface for easy possession.
