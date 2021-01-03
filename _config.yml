@@ -24,7 +24,7 @@ email: admin@calciumcollective.org
 description: >- # this means to ignore newlines until "baseurl:"
   Free Yourself From Your Fleshy Prison
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.calciumcollective.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.calciumcollective.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: jekyll/minima
